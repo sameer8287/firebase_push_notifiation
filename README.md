@@ -181,7 +181,9 @@ Step 12 . call initialize method from main method
 and uncomment last line from FirebaseMessaging.onMessage method in homescreen
 
 
+#OUTPUT :-
 
+![push_notifoication](https://github.com/sameer8287/firebase_push_notifiation/assets/113275452/a94e5aef-4131-4f29-8ba3-6a8ebcb86d44)
 
 
 
