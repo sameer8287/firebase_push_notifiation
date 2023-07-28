@@ -7,7 +7,7 @@ class Api_call {
         data: {
           {
             "registration_ids": [
-              "c-jxm9WQSY2zeNM4ag-oJe:APA91bEELRud2Iqm1ypJR6bX7uz59SzWG3fVoJQvhDnm-Ud9Tft_lbTJW8_e3sr-y5kubwHjB-gGZWsBo0aBUI8bJqa7Zy8eKz7LwVc4DowmjWy4umIJF8whShCQy1AaWjS-xNsexWle"
+              "Your Device ID"
             ],
             "notification": {
               "body": "New Appoinment has been Schedule",
@@ -19,7 +19,7 @@ class Api_call {
         },
         options: Options(headers: {
           'Authorization':
-              'key=AAAALzgnZHs:APA91bHGsHVE25e-v22-RYVdN9WoPS2vdCWNLhy5ov3Q2pPkcJ_K-RjvzLZrAH1UQCNC6us6FY5-7yOPYbShheDZAj8JyeV4Zu38TwKtHNZrZT97-IXugeaHyWCUG-qV6o5Kts97dDSN',
+              'key={Your Server key with Out parenthesis}',
           'Content-Type': 'application/json'
         }));
     print(response.toString());
