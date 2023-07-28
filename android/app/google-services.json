@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "202805568635",
+    "project_id": "firbase-tutorail",
+    "storage_bucket": "firbase-tutorail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202805568635:android:8c38b9c8b67b21918b2ede",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202805568635-f6pa4dsqimlct94pieegfk0rh0oieppi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2jb9Q3dFV5g9luhFEw7twLt63UvdoxMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202805568635-f6pa4dsqimlct94pieegfk0rh0oieppi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202805568635-8m8jmhtbpk71imgch9rbrpf28mil154h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutorial.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
